@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data type="dir">
+	<name type="link" path="Data/String/Players/0000002" data="data/name" />
+	<id>0000002</id>
+  <level>1</level>
+  <baseHp>30</baseHp>
+  <baseAttackSpeed>20</baseAttackSpeed>
+  <type>magic</type>
+  
+  <str>1</str>
+  <con>2</con>
+  <int>7</int>
+  <dex>2</dex>
+  <luk>3</luk>
+<!--Wizard-->
+
+</data>

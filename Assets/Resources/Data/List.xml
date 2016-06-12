@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data type="dir">
+  <name>Master Yi</name>
+  <level>3</level>
+  <str>15</str>
+  <dex>10</dex>
+  <int>5</int>
+  <luk>5</luk>
+  <maxHp>200</maxHp>
+  <maxMp>10</maxMp>
+  <exp>10</exp>
+</data>

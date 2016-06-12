@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data type="dir">
+	<name type="link" path="Data/String/Players/0000001" data="data/name" />
+	<id>0000001</id>
+  <level>1</level>
+  <baseHp>30</baseHp>
+  <baseAttackSpeed>40</baseAttackSpeed>
+  <type>melee</type>
+  <str>2</str>
+  <con>2</con>
+  <int>2</int>
+  <dex>5</dex>
+  <luk>4</luk>
+<!--Rogue-->
+
+
+  <!--
+  <currentHP>3</currentHP>
+	<maximumHP>3</maximumHP>
+	<minimumDamage>3</minimumDamage>
+	<maximumDamage>3</maximumDamage>
+	<experiencePoint>3</experiencePoint>
+	<speed>30</speed>
+	
+
+	<int>5</int>
+	<luk>5</luk>
+	<maxHp>300</maxHp>
+	<maxMp>50</maxMp>
+	<turnGauage>100</turnGauage>
+	<attack>10</attack>
+	<magic>100</magic>
+	<exp>20</exp>
+	<skill>0100000</skill>
+  -->
+</data>

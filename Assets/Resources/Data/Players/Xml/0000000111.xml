@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data type="dir">
+  <name type="link" path="Data/String/Players/0000000" data="data/name" />
+  <id>0000000</id>
+  <level>1</level>
+  <baseHp>30</baseHp>
+  <baseAttackSpeed>30</baseAttackSpeed>
+  <type>melee</type>
+  <!--밀리�? 근접???�어��??�거맞나?-->
+  <str>5</str>
+  <con>5</con>
+  <int>1</int>
+  <dex>1</dex>
+  <luk>3</luk>
+  <patturn1>2</patturn1>
+  <patturn2>2</patturn2>
+  <patturn3>4</patturn3>
+  <!--Warrior-->
+  <!--
+  <currentHP>3</currentHP>
+	<maximumHP>3</maximumHP>
+	<minimumDamage>3</minimumDamage>
+	<maximumDamage>3</maximumDamage>
+	<experiencePoint>3</experiencePoint>
+	<speed>30</speed>
+	
+
+	<int>5</int>
+	<luk>5</luk>
+	<maxHp>300</maxHp>
+	<maxMp>50</maxMp>
+	<turnGauage>100</turnGauage>
+	<attack>10</attack>
+	<magic>100</magic>
+	<exp>20</exp>
+	<skill>0100000</skill>
+  -->
+</data>

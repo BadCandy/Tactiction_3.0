@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data type="dir">
+	<name type="link" path="Data/String/Enemies/0100001" data="data/name" />
+	<id>0100001</id>
+	<level>slimey</level>
+	<currentHp>20</currentHp>
+	<maximumHp>20</maximumHp>
+	<minimumDamage>3</minimumDamage>
+	<maximumDamage>5</maximumDamage>
+	<rewardExperiencePoint>10</rewardExperiencePoint>
+	<speed>40</speed>
+	
+  <!--
+	<attack>100</attack>
+	<magic>10</magic>
+	<exp>10</exp>
+  -->
+</data>
